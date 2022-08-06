@@ -1,4 +1,4 @@
-# Projeto de Telemetria Veicular para a equipe UFPBaja
+# Projeto de Telemetria Veicular para a equipe UFPBaja - Aplicativo
 1 - API hospedada em Raspberry PI desenvolvida em JavaScript para comunicação serial com um módulo LoraMesh. Objetivo: recebimento, processamento e envio de dados para aplicativo.
 
 2 - Aplicativo de Telemetria em React-Native/JavaScript destinado ao monitoramento dos dados do veículo da equipe competição Baja SAE UFPBaja. 
